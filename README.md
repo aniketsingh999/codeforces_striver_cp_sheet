@@ -1,2 +1,2 @@
-# codefores_striver_cp_sheet
+# Codefores Striver's CP Sheet
 Striver's CP Sheet Solutions
